@@ -40665,6 +40665,9 @@
 	<programme channel="newtv超级电视剧" start="20260118023500 +0800" stop="20260118032000 +0800">
 		<title lang="zh">27_怒放</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260118032000 +0800" stop="20260118040500 +0800">
+		<title lang="zh">28_怒放</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40788,6 +40791,9 @@
 	<programme channel="newtv动作电影" start="20260118023200 +0800" stop="20260118031200 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260118031200 +0800" stop="20260118044100 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -40910,6 +40916,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260118022700 +0800" stop="20260118031100 +0800">
 		<title lang="zh">05_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260118031100 +0800" stop="20260118035400 +0800">
+		<title lang="zh">06_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
