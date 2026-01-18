@@ -29637,6 +29637,9 @@
 	<programme channel="纯享4K" start="20260119045800 +0800" stop="20260119050300 +0800">
 		<title lang="zh">美丽中国自然4K 玉树系列 隐世天堂</title>
 	</programme>
+	<programme channel="纯享4K" start="20260119050300 +0800" stop="20260119053300 +0800">
+		<title lang="zh">信仰的感召4K 铁血军魂 吴焕先</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -36897,6 +36900,9 @@
 	<programme channel="newtv超级电视剧" start="20260119043100 +0800" stop="20260119051300 +0800">
 		<title lang="zh">31_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260119051300 +0800" stop="20260119055400 +0800">
+		<title lang="zh">32_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -36920,6 +36926,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260119041600 +0800" stop="20260119050100 +0800">
 		<title lang="zh">18_守婚如玉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260119050100 +0800" stop="20260119054600 +0800">
+		<title lang="zh">19_守婚如玉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -36993,6 +37002,9 @@
 	<programme channel="newtv军旅剧场" start="20260119043000 +0800" stop="20260119051500 +0800">
 		<title lang="zh">05_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260119051500 +0800" stop="20260119055600 +0800">
+		<title lang="zh">06_女人的抗战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -37013,6 +37025,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260119042000 +0800" stop="20260119050600 +0800">
 		<title lang="zh">26_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260119050600 +0800" stop="20260119055200 +0800">
+		<title lang="zh">27_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -37208,6 +37223,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260119042400 +0800" stop="20260119050800 +0800">
 		<title lang="zh">地道英雄 第28集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260119050800 +0800" stop="20260119055200 +0800">
+		<title lang="zh">地道英雄 第29集</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
