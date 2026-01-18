@@ -48915,6 +48915,9 @@
 	<programme channel="黑莓动画" start="20260118222400 +0800" stop="20260118231000 +0800">
 		<title lang="zh">第4集：致命：事实还是传说？</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260118231000 +0800" stop="20260118005100 +0800">
+		<title lang="zh">03_一念永恒合集篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49665,6 +49668,9 @@
 	<programme channel="newtv超级体育" start="20260118214500 +0800" stop="20260118231500 +0800">
 		<title lang="zh">2025/2026赛季斯诺克大师赛-决赛 第一阶段</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260118231500 +0800" stop="20260118013000 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第20轮(马德里竞技-阿拉维斯)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49815,6 +49821,9 @@
 	<programme channel="newtv超级电视剧" start="20260118223300 +0800" stop="20260118231700 +0800">
 		<title lang="zh">21_新边城浪子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260118231700 +0800" stop="20260118000200 +0800">
+		<title lang="zh">22_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49913,6 +49922,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260118222400 +0800" stop="20260118230700 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260118230700 +0800" stop="20260118000400 +0800">
+		<title lang="zh">24_无尽的尽头</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50015,6 +50027,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260118223800 +0800" stop="20260118231300 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260118231300 +0800" stop="20260118235400 +0800">
+		<title lang="zh">17_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50324,6 +50339,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260118223600 +0800" stop="20260118231100 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260118231100 +0800" stop="20260118235500 +0800">
+		<title lang="zh">03_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50936,6 +50954,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260118224800 +0800" stop="20260118231000 +0800">
 		<title lang="zh">谁是军营厨王（51）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260118231000 +0800" stop="20260118233200 +0800">
+		<title lang="zh">谁是军营厨王（52）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
