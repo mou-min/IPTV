@@ -11058,6 +11058,9 @@
 	<programme channel="咪咕综合体育" start="20260119025000 +0800" stop="20260119031500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260119031500 +0800" stop="20260119060000 +0800">
+		<title lang="zh">足球世界-25/26赛季意甲 第21轮 AC米兰-莱切 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -36852,6 +36855,9 @@
 	<programme channel="newtv爱情喜剧" start="20260119011400 +0800" stop="20260119031300 +0800">
 		<title lang="zh">非诚勿扰3</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260119031300 +0800" stop="20260119035800 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -36863,6 +36869,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260119023000 +0800" stop="20260119031000 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260119031000 +0800" stop="20260119043900 +0800">
+		<title lang="zh">狄仁杰之通天赤狐</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -36924,6 +36933,9 @@
 	<programme channel="newtv军事评论" start="20260119022700 +0800" stop="20260119031300 +0800">
 		<title lang="zh">红色气质 第1集 开天辟地</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260119031300 +0800" stop="20260119035900 +0800">
+		<title lang="zh">红色气质 第2集 星火燎原</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -36945,6 +36957,9 @@
 	<programme channel="newtv炫舞未来" start="20260119025100 +0800" stop="20260119031200 +0800">
 		<title lang="zh">健身舞《新年快乐》（20240219）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260119031200 +0800" stop="20260119043400 +0800">
+		<title lang="zh">西游之双圣战神</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -36965,6 +36980,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260119022900 +0800" stop="20260119030400 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260119030400 +0800" stop="20260119042600 +0800">
+		<title lang="zh">迷毒之东风破</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
