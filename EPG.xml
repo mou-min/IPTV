@@ -12798,6 +12798,9 @@
 	<programme channel="咪咕足球" start="20260120050000 +0800" stop="20260120051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260120051000 +0800" stop="20260120064500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第2轮 陕西榆林天泽-浙江稠州银行</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -40659,6 +40662,9 @@
 	<programme channel="newtv超级电影" start="20260120034600 +0800" stop="20260120051000 +0800">
 		<title lang="zh">复仇乌鸦</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260120051000 +0800" stop="20260120064000 +0800">
+		<title lang="zh">高考那年遇见你</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40803,6 +40809,9 @@
 	<programme channel="newtv家庭剧场" start="20260120042300 +0800" stop="20260120050900 +0800">
 		<title lang="zh">29_我的后半生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260120050900 +0800" stop="20260120055500 +0800">
+		<title lang="zh">30_我的后半生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -40862,6 +40871,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260120033400 +0800" stop="20260120050300 +0800">
 		<title lang="zh">侠探锦毛鼠之血光再起</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260120050300 +0800" stop="20260120054600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -40995,6 +41007,9 @@
 	<programme channel="newtv精品综合" start="20260120041800 +0800" stop="20260120050200 +0800">
 		<title lang="zh">地道英雄 第31集</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260120050200 +0800" stop="20260120054600 +0800">
+		<title lang="zh">地道英雄 第32集</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -41009,6 +41024,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260120033500 +0800" stop="20260120050900 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260120050900 +0800" stop="20260120054400 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -41102,6 +41120,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260120040300 +0800" stop="20260120051100 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260120051100 +0800" stop="20260120054700 +0800">
+		<title lang="zh">拳王争霸赛：卡卡斯VS伍德</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
