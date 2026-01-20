@@ -13071,6 +13071,9 @@
 	<programme channel="咪咕足球" start="20260121050000 +0800" stop="20260121051000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260121051000 +0800" stop="20260121065000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第3轮 陕西榆林天泽-北京首钢园</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -40299,6 +40302,9 @@
 	<programme channel="黑莓电影" start="20260121032200 +0800" stop="20260121050800 +0800">
 		<title lang="zh">消失吧，群青</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260121050800 +0800" stop="20260121065100 +0800">
+		<title lang="zh">幸福的记忆</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40983,6 +40989,9 @@
 	<programme channel="newtv超级综艺" start="20260121034100 +0800" stop="20260121050900 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260121050900 +0800" stop="20260121065900 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41009,6 +41018,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260121034600 +0800" stop="20260121051500 +0800">
 		<title lang="zh">斗战苍穹</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260121051500 +0800" stop="20260121064100 +0800">
+		<title lang="zh">我爱冒牌机器女友</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -41148,6 +41160,9 @@
 	<programme channel="newtv家庭剧场" start="20260121042300 +0800" stop="20260121050900 +0800">
 		<title lang="zh">31_我的后半生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260121050900 +0800" stop="20260121055400 +0800">
+		<title lang="zh">32_我的后半生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41189,6 +41204,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260121041600 +0800" stop="20260121050200 +0800">
 		<title lang="zh">09_大奉打更人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260121050200 +0800" stop="20260121055200 +0800">
+		<title lang="zh">10_大奉打更人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -41382,6 +41400,9 @@
 	<programme channel="newtv金牌综艺" start="20260121042700 +0800" stop="20260121051000 +0800">
 		<title lang="zh">23_黎明决战</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260121051000 +0800" stop="20260121055400 +0800">
+		<title lang="zh">24_黎明决战</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -41453,6 +41474,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260121043500 +0800" stop="20260121050500 +0800">
 		<title lang="zh">超次中量级12回合赛：康韦尔VS佩雷斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260121050500 +0800" stop="20260121052600 +0800">
+		<title lang="zh">拳王争霸赛：恩加米森格VS阿里姆哈努利</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
