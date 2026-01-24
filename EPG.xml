@@ -48747,6 +48747,9 @@
 	<programme channel="黑莓动画" start="20260124213500 +0800" stop="20260124231300 +0800">
 		<title lang="zh">蜡笔小新：新婚旅行飓风之遗失的野原广志</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260124231300 +0800" stop="20260124235700 +0800">
+		<title lang="zh">第10集：大胆与残酷</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49746,6 +49749,9 @@
 	<programme channel="newtv超级电视剧" start="20260124223000 +0800" stop="20260124231500 +0800">
 		<title lang="zh">44_新边城浪子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260124231500 +0800" stop="20260124000000 +0800">
+		<title lang="zh">45_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50051,6 +50057,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260124224000 +0800" stop="20260124231500 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260124231500 +0800" stop="20260124000100 +0800">
+		<title lang="zh">16_长相思 第二季</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -50615,6 +50624,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260124221900 +0800" stop="20260124230900 +0800">
 		<title lang="zh">江西赣然无惧vs重庆一针见血-第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260124230900 +0800" stop="20260124234600 +0800">
+		<title lang="zh">江西赣然无惧vs重庆一针见血-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51287,6 +51299,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260124222900 +0800" stop="20260124231400 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260124231400 +0800" stop="20260124235700 +0800">
+		<title lang="zh">14_狐影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
