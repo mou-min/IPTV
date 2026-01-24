@@ -14127,6 +14127,9 @@
 	<programme channel="咪咕综合体育" start="20260124140500 +0800" stop="20260124151500 +0800">
 		<title lang="zh">国球荣耀-2026WTT多哈冠军赛 女单决赛 朱雨玲-陈幸同</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260124151500 +0800" stop="20260124152000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14198,6 +14201,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260124143000 +0800" stop="20260124151000 +0800">
 		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260124151500 +0800" stop="20260124152000 +0800">
+		<title lang="zh">睛彩AI速报</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -39342,6 +39348,9 @@
 	<programme channel="纯享4K" start="20260124145000 +0800" stop="20260124150500 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 寺观壁画b7双枪技击图</title>
 	</programme>
+	<programme channel="纯享4K" start="20260124150500 +0800" stop="20260124155400 +0800">
+		<title lang="zh">大敦煌4K 第2集 敦煌密码</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49572,6 +49581,9 @@
 	<programme channel="newtv超级电视剧" start="20260124142700 +0800" stop="20260124151300 +0800">
 		<title lang="zh">11_大江大河</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260124151300 +0800" stop="20260124155800 +0800">
+		<title lang="zh">12_大江大河</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49634,6 +49646,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260124144300 +0800" stop="20260124151200 +0800">
 		<title lang="zh">土家1号祛痛贴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260124151200 +0800" stop="20260124155800 +0800">
+		<title lang="zh">14_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49833,6 +49848,9 @@
 	<programme channel="newtv军旅剧场" start="20260124143500 +0800" stop="20260124151000 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260124151000 +0800" stop="20260124160000 +0800">
+		<title lang="zh">刀光枪影第28集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49970,6 +49988,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260124143100 +0800" stop="20260124151500 +0800">
 		<title lang="zh">04_扫黑风暴</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260124151500 +0800" stop="20260124155600 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50211,6 +50232,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260124142300 +0800" stop="20260124150800 +0800">
 		<title lang="zh">18_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260124150800 +0800" stop="20260124155300 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50375,6 +50399,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260124143800 +0800" stop="20260124150800 +0800">
 		<title lang="zh">健康生活-益生菌</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260124150800 +0800" stop="20260124153000 +0800">
+		<title lang="zh">塑造天鹅臂（20230814）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
