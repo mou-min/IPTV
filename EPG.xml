@@ -11595,6 +11595,9 @@
 	<programme channel="咪咕足球" start="20260125040000 +0800" stop="20260125050000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260125050000 +0800" stop="20260125051000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -35784,6 +35787,9 @@
 	<programme channel="newtv超级电视剧" start="20260125041400 +0800" stop="20260125045900 +0800">
 		<title lang="zh">14_天下正道</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260125045900 +0800" stop="20260125054500 +0800">
+		<title lang="zh">15_天下正道</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -35801,6 +35807,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260125033600 +0800" stop="20260125043200 +0800">
 		<title lang="zh">07_大武当</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260125043200 +0800" stop="20260125052700 +0800">
+		<title lang="zh">42_守婚如玉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -35822,6 +35831,12 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260125035900 +0800" stop="20260125044500 +0800">
 		<title lang="zh">05_向着胜利前进</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260125044500 +0800" stop="20260125045000 +0800">
+		<title lang="zh">变通健康推荐1</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260125045000 +0800" stop="20260125053500 +0800">
+		<title lang="zh">11_雪狼谷</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -35868,6 +35883,9 @@
 	<programme channel="newtv军旅剧场" start="20260125035800 +0800" stop="20260125044500 +0800">
 		<title lang="zh">29_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260125044500 +0800" stop="20260125053100 +0800">
+		<title lang="zh">30_女人的抗战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -35888,6 +35906,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260125035400 +0800" stop="20260125043800 +0800">
 		<title lang="zh">04_三十而已</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260125043800 +0800" stop="20260125052400 +0800">
+		<title lang="zh">07_四喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -35946,6 +35967,9 @@
 	<programme channel="newtv动作电影" start="20260125032200 +0800" stop="20260125045100 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260125045100 +0800" stop="20260125061700 +0800">
+		<title lang="zh">热武青春</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -35987,6 +36011,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260125035700 +0800" stop="20260125045300 +0800">
 		<title lang="zh">19_激情的岁月</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260125045300 +0800" stop="20260125053100 +0800">
+		<title lang="zh">用对方法巧锻炼（2）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -36099,6 +36126,9 @@
 	<programme channel="newtv金牌综艺" start="20260125041800 +0800" stop="20260125050200 +0800">
 		<title lang="zh">13_潜渊</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260125050200 +0800" stop="20260125050800 +0800">
+		<title lang="zh">变通健康推荐1</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -36167,6 +36197,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260125042400 +0800" stop="20260125050000 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260125050000 +0800" stop="20260125060800 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
