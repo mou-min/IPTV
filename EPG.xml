@@ -35664,6 +35664,9 @@
 	<programme channel="newtv精品纪录" start="20260125022000 +0800" stop="20260125030400 +0800">
 		<title lang="zh">03_向着胜利前进</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260125030900 +0800" stop="20260125035400 +0800">
+		<title lang="zh">04_向着胜利前进</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -35697,6 +35700,9 @@
 	<programme channel="newtv军旅剧场" start="20260125021500 +0800" stop="20260125030700 +0800">
 		<title lang="zh">19_武工队传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260125030700 +0800" stop="20260125035800 +0800">
+		<title lang="zh">20_武工队传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -35711,6 +35717,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260125023000 +0800" stop="20260125030700 +0800">
 		<title lang="zh">康企治疗仪</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260125030700 +0800" stop="20260125035400 +0800">
+		<title lang="zh">03_三十而已</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -35840,6 +35849,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260125013400 +0800" stop="20260125030400 +0800">
 		<title lang="zh">鲨卷风2</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260125030700 +0800" stop="20260125042800 +0800">
+		<title lang="zh">地球超新鲜</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
