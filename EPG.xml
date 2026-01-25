@@ -13275,6 +13275,9 @@
 	<programme channel="咪咕足球" start="20260125143000 +0800" stop="20260125151500 +0800">
 		<title lang="zh">一球一城 巴黎</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260125151500 +0800" stop="20260125152000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -36399,6 +36402,9 @@
 	<programme channel="纯享4K" start="20260125145600 +0800" stop="20260125151100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7垂钓者</title>
 	</programme>
+	<programme channel="纯享4K" start="20260125151100 +0800" stop="20260125160000 +0800">
+		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -44352,6 +44358,9 @@
 	<programme channel="黑莓动画" start="20260125113700 +0800" stop="20260125150400 +0800">
 		<title lang="zh">01_假面骑士ZZZ普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260125150400 +0800" stop="20260125191900 +0800">
+		<title lang="zh">汪汪队立大功第3季01</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45333,6 +45342,9 @@
 	<programme channel="newtv精品纪录" start="20260125141900 +0800" stop="20260125150400 +0800">
 		<title lang="zh">23_猎狼刀</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260125150900 +0800" stop="20260125153800 +0800">
+		<title lang="zh">土家1号骨康膜</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45537,6 +45549,9 @@
 	<programme channel="newtv家庭剧场" start="20260125142300 +0800" stop="20260125151000 +0800">
 		<title lang="zh">26_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260125151000 +0800" stop="20260125155600 +0800">
+		<title lang="zh">27_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45659,6 +45674,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260125142500 +0800" stop="20260125151000 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260125151000 +0800" stop="20260125151600 +0800">
+		<title lang="zh">变通健康推荐1</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -45843,6 +45861,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260125141800 +0800" stop="20260125150400 +0800">
 		<title lang="zh">22_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260125150400 +0800" stop="20260125154900 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -45999,6 +46020,9 @@
 	<programme channel="newtv炫舞未来" start="20260125134700 +0800" stop="20260125150400 +0800">
 		<title lang="zh">第5期下：嘻位守擂！007对打无间道</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260125150400 +0800" stop="20260125153400 +0800">
+		<title lang="zh">健康生活-益生菌</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46062,6 +46086,9 @@
 	<programme channel="newtv精品综合" start="20260125142100 +0800" stop="20260125150700 +0800">
 		<title lang="zh">28_外乡人</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260125151000 +0800" stop="20260125154500 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -46103,6 +46130,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260125134300 +0800" stop="20260125151000 +0800">
 		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260125151000 +0800" stop="20260125154300 +0800">
+		<title lang="zh">土家1号祛痛贴</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -46313,6 +46343,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260125143400 +0800" stop="20260125151500 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260125151500 +0800" stop="20260125160200 +0800">
+		<title lang="zh">13_欢乐英雄之少侠外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
