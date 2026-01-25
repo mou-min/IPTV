@@ -29352,6 +29352,9 @@
 	<programme channel="纯享4K" start="20260126003500 +0800" stop="20260126010500 +0800">
 		<title lang="zh">记住乡愁4K 松溉镇——念乡情 报乡恩</title>
 	</programme>
+	<programme channel="纯享4K" start="20260126010500 +0800" stop="20260126013500 +0800">
+		<title lang="zh">味道4K 边疆风味b7昌吉篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -36378,6 +36381,9 @@
 	<programme channel="newtv精品纪录" start="20260126001900 +0800" stop="20260126010500 +0800">
 		<title lang="zh">06_向着胜利前进</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260126011100 +0800" stop="20260126014600 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -36399,6 +36405,9 @@
 	<programme channel="newtv军旅剧场" start="20260126001900 +0800" stop="20260126011100 +0800">
 		<title lang="zh">21_武工队传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260126011100 +0800" stop="20260126014400 +0800">
+		<title lang="zh">神飞航天骨胶原蛋白肽</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -36413,6 +36422,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20260126002500 +0800" stop="20260126010200 +0800">
 		<title lang="zh">嘉裕荣地龙蛋白肽</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260126010200 +0800" stop="20260126014800 +0800">
+		<title lang="zh">10_独孤天下</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -36465,6 +36477,9 @@
 	<programme channel="newtv军事评论" start="20260126005300 +0800" stop="20260126011500 +0800">
 		<title lang="zh">太平洋战争影像b7从塞班岛到硫磺岛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260126011500 +0800" stop="20260126013700 +0800">
+		<title lang="zh">太平洋战争影像b7从冲绳到广岛</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -36479,6 +36494,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260126010000 +0800" stop="20260126010300 +0800">
 		<title lang="zh">变通健康推荐1</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260126010300 +0800" stop="20260126014000 +0800">
+		<title lang="zh">康企治疗仪</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -36503,6 +36521,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260126003000 +0800" stop="20260126010500 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260126010500 +0800" stop="20260126014800 +0800">
+		<title lang="zh">16_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
