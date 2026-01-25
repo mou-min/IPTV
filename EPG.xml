@@ -13296,6 +13296,9 @@
 	<programme channel="咪咕足球" start="20260125181500 +0800" stop="20260125191500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260125191500 +0800" stop="20260125193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -36381,6 +36384,9 @@
 	<programme channel="纯享4K" start="20260125183500 +0800" stop="20260125191500 +0800">
 		<title lang="zh">探索b7发现4K 天子驾六发现记</title>
 	</programme>
+	<programme channel="纯享4K" start="20260125191500 +0800" stop="20260125193000 +0800">
+		<title lang="zh">戏曲的另一种打开方式4K 第4集 巧“豫”知音</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -45462,6 +45468,9 @@
 	<programme channel="newtv古装剧场" start="20260125182200 +0800" stop="20260125190800 +0800">
 		<title lang="zh">45_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260125190800 +0800" stop="20260125194600 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45713,6 +45722,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260125182200 +0800" stop="20260125190700 +0800">
 		<title lang="zh">10_赎仇</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260125190700 +0800" stop="20260125195200 +0800">
+		<title lang="zh">11_赎仇</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -46017,6 +46029,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260125183100 +0800" stop="20260125191000 +0800">
 		<title lang="zh">13_陪你逐风飞翔</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260125191000 +0800" stop="20260125194500 +0800">
+		<title lang="zh">14_陪你逐风飞翔</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -46130,6 +46145,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260125184100 +0800" stop="20260125190300 +0800">
 		<title lang="zh">长空铸剑b7向苍穹（1）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260125190300 +0800" stop="20260125192500 +0800">
+		<title lang="zh">长空铸剑b7向苍穹（2）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -46359,6 +46377,9 @@
 	<programme channel="newtv惊悚悬疑" start="20260125175200 +0800" stop="20260125191600 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260125191600 +0800" stop="20260125195500 +0800">
+		<title lang="zh">嘉裕荣地龙蛋白肽</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -46460,6 +46481,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260125183400 +0800" stop="20260125191800 +0800">
 		<title lang="zh">18_血刃</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260125191800 +0800" stop="20260125195300 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
