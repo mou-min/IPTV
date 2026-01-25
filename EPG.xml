@@ -45096,6 +45096,9 @@
 	<programme channel="newtv超级综艺" start="20260125215100 +0800" stop="20260125232100 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260125232100 +0800" stop="20260125000600 +0800">
+		<title lang="zh">25_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45303,6 +45306,9 @@
 	<programme channel="newtv超级电视剧" start="20260125223400 +0800" stop="20260125231900 +0800">
 		<title lang="zh">47_新边城浪子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260125231900 +0800" stop="20260125000400 +0800">
+		<title lang="zh">48_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45401,6 +45407,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260125222300 +0800" stop="20260125230900 +0800">
 		<title lang="zh">19_大浦东</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260125230900 +0800" stop="20260125235400 +0800">
+		<title lang="zh">20_大浦东</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -45717,6 +45726,9 @@
 	<programme channel="newtv军旅剧场" start="20260125222100 +0800" stop="20260125230100 +0800">
 		<title lang="zh">40_决胜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260125230100 +0800" stop="20260125234600 +0800">
+		<title lang="zh">01_向着胜利前进</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46011,6 +46023,9 @@
 	<programme channel="newtv爱情喜剧" start="20260125223100 +0800" stop="20260125231600 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260125231600 +0800" stop="20260125232200 +0800">
+		<title lang="zh">变通健康推荐1</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -46181,6 +46196,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260125223200 +0800" stop="20260125231500 +0800">
 		<title lang="zh">江西赣然无惧vs重庆一针见血-第6局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260125231500 +0800" stop="20260125233700 +0800">
+		<title lang="zh">小品《拍电影》表演者：陈佩斯 朱时茂</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -46533,6 +46551,9 @@
 	<programme channel="newtv炫舞未来" start="20260125224500 +0800" stop="20260125230600 +0800">
 		<title lang="zh">有氧跳绳跟练《奋斗》（20240430）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260125230600 +0800" stop="20260125234500 +0800">
+		<title lang="zh">肺结节 有新知（20250222）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46820,6 +46841,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260125221800 +0800" stop="20260125230300 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260125230300 +0800" stop="20260125234600 +0800">
+		<title lang="zh">18_狐影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
