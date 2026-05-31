@@ -13032,6 +13032,9 @@
 	<programme channel="咪咕综合体育" start="20260601011000 +0800" stop="20260601034000 +0800">
 		<title lang="zh">UFC格斗之夜273期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260601035000 +0800" stop="20260601040000 +0800">
+		<title lang="zh">射正指南</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42039,6 +42042,9 @@
 	<programme channel="newtv超级综艺" start="20260601022500 +0800" stop="20260601031200 +0800">
 		<title lang="zh">35_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260601031200 +0800" stop="20260601040700 +0800">
+		<title lang="zh">36_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42057,6 +42063,9 @@
 	<programme channel="newtv超级电影" start="20260601013200 +0800" stop="20260601030300 +0800">
 		<title lang="zh">血战残阳</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260601030300 +0800" stop="20260601042900 +0800">
+		<title lang="zh">终极硬汉</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -42071,6 +42080,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260601021800 +0800" stop="20260601030500 +0800">
 		<title lang="zh">12_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601030500 +0800" stop="20260601035200 +0800">
+		<title lang="zh">13_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42632,6 +42644,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260601021000 +0800" stop="20260601025500 +0800">
 		<title lang="zh">48_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601025500 +0800" stop="20260601034100 +0800">
+		<title lang="zh">01_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601034100 +0800" stop="20260601042200 +0800">
+		<title lang="zh">02_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
