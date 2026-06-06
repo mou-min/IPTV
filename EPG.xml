@@ -16605,6 +16605,12 @@
 	<programme channel="咪咕综合体育" start="20260607012000 +0800" stop="20260607033000 +0800">
 		<title lang="zh">UFC格斗之夜272期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260607033000 +0800" stop="20260607033500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260607033500 +0800" stop="20260607040000 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49845,6 +49851,12 @@
 	<programme channel="newtv超级综艺" start="20260607015300 +0800" stop="20260607024300 +0800">
 		<title lang="zh">01_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260607024300 +0800" stop="20260607033500 +0800">
+		<title lang="zh">02_滤镜</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260607033500 +0800" stop="20260607042300 +0800">
+		<title lang="zh">03_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49860,6 +49872,9 @@
 	<programme channel="newtv超级电影" start="20260607011800 +0800" stop="20260607024600 +0800">
 		<title lang="zh">鲨卷风5：全球鲨暴</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260607024600 +0800" stop="20260607042600 +0800">
+		<title lang="zh">街头霸王</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49871,6 +49886,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260607015400 +0800" stop="20260607024000 +0800">
 		<title lang="zh">41_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607024000 +0800" stop="20260607032600 +0800">
+		<title lang="zh">42_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607032600 +0800" stop="20260607041200 +0800">
+		<title lang="zh">43_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50432,6 +50453,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260607021200 +0800" stop="20260607025300 +0800">
 		<title lang="zh">31_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607025300 +0800" stop="20260607033500 +0800">
+		<title lang="zh">32_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607033500 +0800" stop="20260607041600 +0800">
+		<title lang="zh">33_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
