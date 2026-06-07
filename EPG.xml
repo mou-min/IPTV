@@ -13263,6 +13263,9 @@
 	<programme channel="咪咕综合体育" start="20260608014000 +0800" stop="20260608035500 +0800">
 		<title lang="zh">UFC格斗之夜 澳门站</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260608040000 +0800" stop="20260608065000 +0800">
+		<title lang="zh">一杆定音-2026斯诺克世锦赛 决赛 肖恩b7墨菲-吴宜泽 第一阶段</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -13283,6 +13286,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260608022000 +0800" stop="20260608040000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第7轮 石家庄翔蓝-盐南苏科雄狮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260608040500 +0800" stop="20260608044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -41895,6 +41901,12 @@
 	<programme channel="newtv超级综艺" start="20260608015800 +0800" stop="20260608024600 +0800">
 		<title lang="zh">06_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260608024600 +0800" stop="20260608033000 +0800">
+		<title lang="zh">07_滤镜</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260608033000 +0800" stop="20260608041500 +0800">
+		<title lang="zh">08_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41904,6 +41916,12 @@
 	<programme channel="newtv超级体育" start="20260608010500 +0800" stop="20260608023600 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 拉巴特站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260608023600 +0800" stop="20260608040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 6</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260608040000 +0800" stop="20260608053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -41912,6 +41930,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260608022500 +0800" stop="20260608035100 +0800">
 		<title lang="zh">超能力</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260608035100 +0800" stop="20260608052600 +0800">
+		<title lang="zh">孤海寄生</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -41927,6 +41948,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260608022500 +0800" stop="20260608031100 +0800">
 		<title lang="zh">04_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608031100 +0800" stop="20260608035800 +0800">
+		<title lang="zh">05_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608040200 +0800" stop="20260608044600 +0800">
+		<title lang="zh">29_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42488,6 +42515,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260608020500 +0800" stop="20260608024600 +0800">
 		<title lang="zh">36_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608024600 +0800" stop="20260608032800 +0800">
+		<title lang="zh">37_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608032800 +0800" stop="20260608040900 +0800">
+		<title lang="zh">38_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
