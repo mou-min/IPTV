@@ -50727,6 +50727,9 @@
 	<programme channel="newtv超级综艺" start="20260705034800 +0800" stop="20260705054300 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260705054300 +0800" stop="20260705073000 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50747,6 +50750,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260705043000 +0800" stop="20260705054600 +0800">
 		<title lang="zh">桃花诗社</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260705054600 +0800" stop="20260705064800 +0800">
+		<title lang="zh">伏魔罗汉</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50771,6 +50777,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260705043800 +0800" stop="20260705052300 +0800">
 		<title lang="zh">07_冤家亲家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260705052300 +0800" stop="20260705060800 +0800">
+		<title lang="zh">08_冤家亲家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51341,6 +51350,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260705043600 +0800" stop="20260705051600 +0800">
 		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260705051600 +0800" stop="20260705060000 +0800">
+		<title lang="zh">35_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260705060000 +0800" stop="20260705063500 +0800">
+		<title lang="zh">俞兆林高档黄金蚕丝被</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
