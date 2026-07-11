@@ -50121,6 +50121,9 @@
 	<programme channel="newtv超级综艺" start="20260712034400 +0800" stop="20260712052200 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260712052200 +0800" stop="20260712065200 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50148,6 +50151,9 @@
 	<programme channel="newtv超级电影" start="20260712040600 +0800" stop="20260712052700 +0800">
 		<title lang="zh">生死22分钟</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260712052700 +0800" stop="20260712065000 +0800">
+		<title lang="zh">变异危机</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50171,6 +50177,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260712043700 +0800" stop="20260712051800 +0800">
 		<title lang="zh">05_索玛花开</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260712051800 +0800" stop="20260712060000 +0800">
+		<title lang="zh">06_索玛花开</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50744,6 +50753,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260712045400 +0800" stop="20260712053900 +0800">
 		<title lang="zh">20_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260712053900 +0800" stop="20260712062400 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
