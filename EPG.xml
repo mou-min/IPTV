@@ -16179,6 +16179,9 @@
 	<programme channel="咪咕足球" start="20260725040500 +0800" stop="20260725044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260725045000 +0800" stop="20260725063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第7轮 上海浦发银行-江苏南钢</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50643,6 +50646,9 @@
 	<programme channel="newtv超级综艺" start="20260725033700 +0800" stop="20260725053100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260725053100 +0800" stop="20260725065000 +0800">
+		<title lang="zh">信马游疆</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50670,6 +50676,9 @@
 	<programme channel="newtv超级电影" start="20260725032100 +0800" stop="20260725045000 +0800">
 		<title lang="zh">时速72</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260725045000 +0800" stop="20260725060100 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50687,6 +50696,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260725033900 +0800" stop="20260725042500 +0800">
 		<title lang="zh">01_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725042900 +0800" stop="20260725051400 +0800">
+		<title lang="zh">24_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725051400 +0800" stop="20260725055900 +0800">
+		<title lang="zh">25_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51257,6 +51272,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260725041300 +0800" stop="20260725044300 +0800">
 		<title lang="zh">紫苏牛肉酱好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725044300 +0800" stop="20260725052600 +0800">
+		<title lang="zh">35_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725052600 +0800" stop="20260725061200 +0800">
+		<title lang="zh">01_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
