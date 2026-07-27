@@ -16464,6 +16464,12 @@
 	<programme channel="咪咕足球" start="20260728040500 +0800" stop="20260728044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260728044000 +0800" stop="20260728045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260728045000 +0800" stop="20260728063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第11轮 上海浦发银行-新疆天山</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50334,6 +50340,12 @@
 	<programme channel="newtv超级电影" start="20260728032300 +0800" stop="20260728043600 +0800">
 		<title lang="zh">最后的武林</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260728043600 +0800" stop="20260728054700 +0800">
+		<title lang="zh">最后的武林2铁砂掌</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260728054700 +0800" stop="20260728072200 +0800">
+		<title lang="zh">移城别恋</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50354,6 +50366,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260728040400 +0800" stop="20260728044900 +0800">
 		<title lang="zh">36_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260728044900 +0800" stop="20260728053400 +0800">
+		<title lang="zh">37_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260728053400 +0800" stop="20260728061900 +0800">
+		<title lang="zh">38_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50924,6 +50942,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260728041000 +0800" stop="20260728044000 +0800">
 		<title lang="zh">紫苏牛肉酱好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260728044000 +0800" stop="20260728052500 +0800">
+		<title lang="zh">17_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260728052500 +0800" stop="20260728061100 +0800">
+		<title lang="zh">18_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
