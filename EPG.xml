@@ -41997,6 +41997,9 @@
 	<programme channel="newtv超级体育" start="20260803040000 +0800" stop="20260803060000 +0800">
 		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260803060000 +0800" stop="20260803063000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -42011,6 +42014,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260803044100 +0800" stop="20260803060200 +0800">
 		<title lang="zh">兰若行者</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260803060200 +0800" stop="20260803072200 +0800">
+		<title lang="zh">蛇王2021</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -42035,6 +42041,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260803043500 +0800" stop="20260803052000 +0800">
 		<title lang="zh">21_冤家亲家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803052000 +0800" stop="20260803060500 +0800">
+		<title lang="zh">22_冤家亲家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42608,6 +42617,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260803050700 +0800" stop="20260803055200 +0800">
 		<title lang="zh">30_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260803055200 +0800" stop="20260803062200 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
