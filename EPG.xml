@@ -59397,6 +59397,9 @@
 	<programme channel="newtv超级电视剧" start="20260815215500 +0800" stop="20260815224100 +0800">
 		<title lang="zh">01_情满九道弯</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260815224100 +0800" stop="20260815232600 +0800">
+		<title lang="zh">02_情满九道弯</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60047,6 +60050,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260815215500 +0800" stop="20260815223900 +0800">
 		<title lang="zh">36_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260815223900 +0800" stop="20260815230900 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
