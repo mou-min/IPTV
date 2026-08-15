@@ -50130,6 +50130,9 @@
 	<programme channel="newtv超级体育" start="20260816000500 +0800" stop="20260816010600 +0800">
 		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛1(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260816010600 +0800" stop="20260816023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 美国队-比利时队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50696,6 +50699,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260816002300 +0800" stop="20260816010900 +0800">
 		<title lang="zh">06_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816010900 +0800" stop="20260816013900 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
