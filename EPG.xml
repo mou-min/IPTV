@@ -16182,6 +16182,9 @@
 	<programme channel="咪咕足球" start="20260816040500 +0800" stop="20260816044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260816045000 +0800" stop="20260816063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第1轮 浙江稠州银行-上海浦发银行</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50397,6 +50400,9 @@
 	<programme channel="newtv超级电影" start="20260816032800 +0800" stop="20260816045000 +0800">
 		<title lang="zh">兴安岭猎人传说</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260816045000 +0800" stop="20260816061200 +0800">
+		<title lang="zh">无人机</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50417,6 +50423,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260816040800 +0800" stop="20260816045000 +0800">
 		<title lang="zh">11_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816045000 +0800" stop="20260816053100 +0800">
+		<title lang="zh">12_叛逆者</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50987,6 +50996,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260816042700 +0800" stop="20260816045700 +0800">
 		<title lang="zh">紫苏牛肉酱好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816045700 +0800" stop="20260816054300 +0800">
+		<title lang="zh">10_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
