@@ -17508,6 +17508,9 @@
 	<programme channel="咪咕综合体育" start="20260818121000 +0800" stop="20260818133000 +0800">
 		<title lang="zh">国球荣耀-2026WTT欧洲大满贯 睛彩回顾1</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260818133000 +0800" stop="20260818133500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58845,6 +58848,9 @@
 	<programme channel="newtv超级体育" start="20260818123500 +0800" stop="20260818125900 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260818125900 +0800" stop="20260818140000 +0800">
+		<title lang="zh">实况录像-2026年世界艺术体操锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58871,6 +58877,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260818112000 +0800" stop="20260818124900 +0800">
 		<title lang="zh">疯颠和尚之再续前缘</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260818124900 +0800" stop="20260818145000 +0800">
+		<title lang="zh">非凡任务</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58925,6 +58934,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818120200 +0800" stop="20260818124800 +0800">
 		<title lang="zh">38_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818124800 +0800" stop="20260818133300 +0800">
+		<title lang="zh">21_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59531,6 +59543,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260818122800 +0800" stop="20260818130300 +0800">
 		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818130300 +0800" stop="20260818134700 +0800">
+		<title lang="zh">29_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
