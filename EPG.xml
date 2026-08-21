@@ -17985,6 +17985,9 @@
 	<programme channel="咪咕足球" start="20260821133500 +0800" stop="20260821135000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260821135000 +0800" stop="20260821144000 +0800">
+		<title lang="zh">最后之舞</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59034,6 +59037,9 @@
 	<programme channel="newtv超级综艺" start="20260821124000 +0800" stop="20260821135900 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260821135900 +0800" stop="20260821151900 +0800">
+		<title lang="zh">信马游疆</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59076,6 +59082,9 @@
 	<programme channel="newtv超级体育" start="20260821125800 +0800" stop="20260821140000 +0800">
 		<title lang="zh">2026年国际体联蹦床世界杯-阿罗萨站(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260821140000 +0800" stop="20260821170000 +0800">
+		<title lang="zh">2026年世界羽毛球锦标赛-1/4决赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59105,6 +59114,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260821123800 +0800" stop="20260821140200 +0800">
 		<title lang="zh">执剑人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260821140200 +0800" stop="20260821153200 +0800">
+		<title lang="zh">生死交锋</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59165,6 +59177,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260821131500 +0800" stop="20260821135000 +0800">
 		<title lang="zh">07_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821135000 +0800" stop="20260821142800 +0800">
+		<title lang="zh">08_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821142800 +0800" stop="20260821150200 +0800">
+		<title lang="zh">09_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59774,6 +59792,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260821130500 +0800" stop="20260821135000 +0800">
 		<title lang="zh">07_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821135000 +0800" stop="20260821142500 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821142500 +0800" stop="20260821151100 +0800">
+		<title lang="zh">08_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
