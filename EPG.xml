@@ -59208,6 +59208,9 @@
 	<programme channel="newtv超级体育" start="20260821223500 +0800" stop="20260821233500 +0800">
 		<title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260821233500 +0800" stop="20260821010600 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 尤金站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59354,6 +59357,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260821223200 +0800" stop="20260821231700 +0800">
 		<title lang="zh">22_情满九道弯</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260821231700 +0800" stop="20260821000200 +0800">
+		<title lang="zh">23_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60005,6 +60011,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260821223000 +0800" stop="20260821231600 +0800">
 		<title lang="zh">21_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260821231600 +0800" stop="20260821234600 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
