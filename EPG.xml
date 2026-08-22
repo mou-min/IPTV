@@ -17463,6 +17463,9 @@
 	<programme channel="咪咕综合体育" start="20260822214500 +0800" stop="20260822232500 +0800">
 		<title lang="zh">足球世界-2026社区盾 决赛 阿森纳-曼城</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260822233000 +0800" stop="20260822000000 +0800">
+		<title lang="zh">纪录片AC米兰的缔造者</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58716,6 +58719,9 @@
 	<programme channel="newtv超级综艺" start="20260822213000 +0800" stop="20260822231000 +0800">
 		<title lang="zh">跟着春晚游中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260822231000 +0800" stop="20260822235600 +0800">
+		<title lang="zh">25_梅花红桃</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58769,6 +58775,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260822200000 +0800" stop="20260822231500 +0800">
 		<title lang="zh">2026年世界羽毛球锦标赛-半决赛2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260822231500 +0800" stop="20260822012000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第1轮(朗斯-欧塞尔)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -58919,6 +58928,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260822223500 +0800" stop="20260822232000 +0800">
 		<title lang="zh">26_情满九道弯</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260822232000 +0800" stop="20260822000500 +0800">
+		<title lang="zh">27_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59570,6 +59582,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260822222800 +0800" stop="20260822231300 +0800">
 		<title lang="zh">27_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260822231300 +0800" stop="20260822234300 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
