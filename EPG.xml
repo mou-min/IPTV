@@ -50991,6 +50991,9 @@
 	<programme channel="newtv金牌综艺" start="20260823050000 +0800" stop="20260823054500 +0800">
 		<title lang="zh">25_红蔷薇（DVD版）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260823054500 +0800" stop="20260823061500 +0800">
+		<title lang="zh">沙琪玛好物推荐</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
