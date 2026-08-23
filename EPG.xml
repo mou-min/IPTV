@@ -42108,6 +42108,9 @@
 	<programme channel="newtv超级电视剧" start="20260824044300 +0800" stop="20260824052600 +0800">
 		<title lang="zh">01_欢乐颂2</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260824052600 +0800" stop="20260824060900 +0800">
+		<title lang="zh">02_欢乐颂2</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -42680,6 +42683,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824044200 +0800" stop="20260824052600 +0800">
 		<title lang="zh">30_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824052600 +0800" stop="20260824055600 +0800">
+		<title lang="zh">沙琪玛好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
