@@ -17580,6 +17580,9 @@
 	<programme channel="咪咕综合体育" start="20260823175500 +0800" stop="20260823193500 +0800">
 		<title lang="zh">足球世界-2026法超杯 朗斯-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260823193500 +0800" stop="20260823194000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59543,6 +59546,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260823184500 +0800" stop="20260823193200 +0800">
 		<title lang="zh">30_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823193200 +0800" stop="20260823202000 +0800">
+		<title lang="zh">31_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
