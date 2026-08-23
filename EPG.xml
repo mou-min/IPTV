@@ -59496,6 +59496,9 @@
 	<programme channel="newtv超级电影" start="20260823211100 +0800" stop="20260823223700 +0800">
 		<title lang="zh">不速之客：谎言</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260823223700 +0800" stop="20260823234200 +0800">
+		<title lang="zh">封神雷震子</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59591,6 +59594,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260823215300 +0800" stop="20260823223900 +0800">
 		<title lang="zh">29_情满九道弯</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260823223900 +0800" stop="20260823232400 +0800">
+		<title lang="zh">30_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60242,6 +60248,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260823222300 +0800" stop="20260823225400 +0800">
 		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260823225400 +0800" stop="20260823233900 +0800">
+		<title lang="zh">33_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
