@@ -17571,6 +17571,9 @@
 	<programme channel="咪咕足球" start="20260825104500 +0800" stop="20260825114500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260825114500 +0800" stop="20260825115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -58887,6 +58890,9 @@
 	<programme channel="newtv超级电影" start="20260825094900 +0800" stop="20260825110900 +0800">
 		<title lang="zh">女特警之暗战</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260825110900 +0800" stop="20260825122500 +0800">
+		<title lang="zh">侏罗纪崛起</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -58934,6 +58940,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260825102600 +0800" stop="20260825111100 +0800">
 		<title lang="zh">24_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825111100 +0800" stop="20260825115600 +0800">
+		<title lang="zh">25_奔跑吧，医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59531,6 +59540,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260825101300 +0800" stop="20260825105700 +0800">
 		<title lang="zh">06_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825105700 +0800" stop="20260825114100 +0800">
+		<title lang="zh">07_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825114100 +0800" stop="20260825121100 +0800">
+		<title lang="zh">青稞饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
