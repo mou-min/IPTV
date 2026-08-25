@@ -17631,6 +17631,18 @@
 	<programme channel="咪咕足球" start="20260825183000 +0800" stop="20260825184500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260825184500 +0800" stop="20260825190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825190500 +0800" stop="20260825191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825191500 +0800" stop="20260825192000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260825193000 +0800" stop="20260825203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -58779,6 +58791,9 @@
 	<programme channel="newtv超级综艺" start="20260825172200 +0800" stop="20260825183200 +0800">
 		<title lang="zh">你好生活第4季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260825183200 +0800" stop="20260825194900 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58833,6 +58848,9 @@
 	<programme channel="newtv超级体育" start="20260825183000 +0800" stop="20260825193000 +0800">
 		<title lang="zh">实况录像-2026年世界羽毛球锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260825193000 +0800" stop="20260825213000 +0800">
+		<title lang="zh">CMG群众篮球争霸赛(浙江苍南站)-A组(呼和浩特队- 苍南队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58877,6 +58895,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260825175000 +0800" stop="20260825190000 +0800">
 		<title lang="zh">极速风云</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260825190000 +0800" stop="20260825203100 +0800">
+		<title lang="zh">暗影2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58958,6 +58979,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260825181800 +0800" stop="20260825190300 +0800">
 		<title lang="zh">01_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260825190300 +0800" stop="20260825194900 +0800">
+		<title lang="zh">02_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59591,6 +59615,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260825180800 +0800" stop="20260825185400 +0800">
 		<title lang="zh">30_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260825185400 +0800" stop="20260825193700 +0800">
+		<title lang="zh">01_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
