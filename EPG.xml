@@ -58917,6 +58917,9 @@
 	<programme channel="newtv超级体育" start="20260826123500 +0800" stop="20260826125900 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260826125900 +0800" stop="20260826140000 +0800">
+		<title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59000,6 +59003,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260826122400 +0800" stop="20260826131000 +0800">
 		<title lang="zh">30_奔跑吧，医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260826131000 +0800" stop="20260826134700 +0800">
+		<title lang="zh">27_完美伴侣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59606,6 +59612,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260826122100 +0800" stop="20260826130500 +0800">
 		<title lang="zh">13_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826130500 +0800" stop="20260826133500 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260826133500 +0800" stop="20260826142100 +0800">
+		<title lang="zh">31_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
